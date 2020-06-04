@@ -1,16 +1,24 @@
 {
-  id: 0,
-  img: require('./img/img-1.jpg'),
-  title: 'iMac Pro 27" 5K display',
-  about: 'Процессор: Intel\n<br>ОЗУ: 32 ГБ\n<br>Видео: Radeon Pro Vega 56, 8 ГБ\n<br>Накопитель: 1024 ГБ\n<br>ОС: MacOS',
-  priceNew: '131 990'
-
+  "id": "0",
+  "title": "'iMac Pro 27" 5'",
+  "about": "'Процессор: Intel\n<br>ОЗУ: 32 ГБ\n<br>Видео: Radeon Pro Vega 56, 8 ГБ\n<br>Накопитель: 1024 ГБ\n<br>ОС: MacOS'",
+  "priceNew": "'131 990'"
 },
 {
-  id: 1,
-  img: require('./img/img-2.jpg'),
-  title: 'Apple iPad Pro 12.9 64 4G',
-  about: 'Экран: 12.9 ″, 2732x2048 пикс, 265 ppi<br>Память: 64 ГБ, нет слота microSD<br>Камера: 12 МП, камера для видеозвонков<br>Hardware: 6 ядер(а), оперативка 4096 МБ<br>Корпус: металл, 692 г, толщина 7 мм',
-  priceNew: '22 690'
+  "id": "1",
+  "title": "'second'",
+  "about": "'Процессор: Intel\n<br>ОЗУ: 32 ГБ\n<br>Видео: Radeon Pro Vega 56, 8 ГБ\n<br>Накопитель: 1024 ГБ\n<br>ОС: MacOS'",
+  "priceNew": "'2 990'"
 },
-{id: 2, img: require('./img/img-3.jpg'), title: 'Weber Master-Touch GBS'}
+{
+  "id": "2",
+  "title": "'iMac Pro 27" 5'",
+  "about": "'Процессор: Intel\n<br>ОЗУ: 32 ГБ\n<br>Видео: Radeon Pro Vega 56, 8 ГБ\n<br>Накопитель: 1024 ГБ\n<br>ОС: MacOS'",
+  "priceNew": "'131 990'"
+},
+{
+  "id": "3",
+  "title": "'second'",
+  "about": "'Процессор: Intel\n<br>ОЗУ: 32 ГБ\n<br>Видео: Radeon Pro Vega 56, 8 ГБ\n<br>Накопитель: 1024 ГБ\n<br>ОС: MacOS'",
+  "priceNew": "'2 990'"
+},
